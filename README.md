@@ -1,4 +1,8 @@
-¡Hola! Este es mi perfil de github, muy básico xd aquí solo vas a encontrar algunos proyectos míos en base a programación y algunas otras cosas sobre sistemas operativos (mayormente Linux)
+<h3 align="center">
+        <samp>&gt; ¡Hola!
+        </samp>
+</h3>
+Este es mi perfil de github, muy básico xd aquí solo vas a encontrar algunos proyectos míos en base a programación y algunas otras cosas sobre sistemas operativos (mayormente Linux)
 
 ### ¿Que se?
         fn main() {
