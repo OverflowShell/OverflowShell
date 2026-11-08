@@ -1,32 +1,29 @@
-# 👨‍💻 Christian Alonso (OverflowShell)
+# ⚡ OverflowShell
 
-Estudiante de **Ingeniería de Sistemas** enfocado en **Ciberseguridad Defensiva**, **Administración de Servidores Linux** y prácticas **DevOps / DevSecOps**. Me apasiona el análisis de malware, la automatización de infraestructura en la nube y el desarrollo eficiente a bajo nivel.
+Un rincón donde subo mis experimentos de laboratorio, herramientas de automatización y scripts de defensa en Linux. Me gusta desarmar cómo funcionan las cosas por debajo, securizar servidores y programar herramientas rápidas cuando las opciones existentes consumen demasiados recursos.
 
 ---
 
-### ⚙️ Sobre mí en código
+### ¿En qué ando metido?
 
 ```rust
-struct Profile<'a> {
-    focus: [&'a str; 3],
-    languages: [&'a str; 6],
-    sysadmin_since: u16,
-    motto: &'a str,
-}
-
 fn main() {
-    let me = Profile {
-        focus: ["Cybersecurity", "Linux Sysadmin", "DevOps / DevSecOps"],
-        languages: ["Python", "Rust", "Go", "C/C++", "Java", "Node.js"],
-        sysadmin_since: 2020,
-        motto: "Security by design, automation by default.",
-    };
+    let intereses = ["Cybersecurity & Malware Analysis", "Linux Sysadmin", "DevOps"];
+    let lenguajes = ["Python", "Rust", "Go", "C/C++", "Java", "Node.js"];
 
-    println!("{:#?}", me);
+    println!("Laboratorios activos: {:?}", intereses);
+    println!("Lenguajes que suelo usar: {:?}", lenguajes);
+    // Servidores Linux administrados por cuenta propia desde 2020
 }
-🛠️ Tech Stack & Herramientas
-Seguridad & Auditoría
+🛠️ Herramientas & Entornos
+Seguridad & Detección
 
-Sistemas & Cloud / DevOps
+Infraestructura & Linux
 
-Lenguajes de Programación
+Lenguajes
+
+📊 Actividad en GitHub
+📫 Contacto
+GitHub: @OverflowShell
+
+Correo: alonso10.hrc@gmail.com
